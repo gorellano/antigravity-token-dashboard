@@ -1,0 +1,62 @@
+{
+  "_source": "bridge.js (live)",
+  "_timestamp": "2026-05-12T18:37:51.216Z",
+  "_email": "grorellano@gmail.com",
+  "promptCredits": {
+    "available": 500,
+    "monthly": 50000,
+    "used": 49500,
+    "usedPct": 0.99,
+    "remainingPct": 0.01
+  },
+  "models": [
+    {
+      "id": "MODEL_OPENAI_GPT_OSS_120B_MEDIUM",
+      "name": "GPT-OSS 120B (Medium)",
+      "remainingFraction": null,
+      "resetTimestamp": "2026-05-12T20:37:51Z",
+      "color": "#81c784",
+      "colorBg": "rgba(129,199,132,0.12)"
+    },
+    {
+      "id": "MODEL_PLACEHOLDER_M16",
+      "name": "Gemini 3.1 Pro (High)",
+      "remainingFraction": 1,
+      "resetTimestamp": "2026-05-12T23:36:19Z",
+      "color": "#4fc3f7",
+      "colorBg": "rgba(79,195,247,0.12)"
+    },
+    {
+      "id": "MODEL_PLACEHOLDER_M36",
+      "name": "Gemini 3.1 Pro (Low)",
+      "remainingFraction": 1,
+      "resetTimestamp": "2026-05-12T23:36:19Z",
+      "color": "#4fc3f7",
+      "colorBg": "rgba(79,195,247,0.12)"
+    },
+    {
+      "id": "MODEL_PLACEHOLDER_M84",
+      "name": "Gemini 3 Flash",
+      "remainingFraction": 0.8,
+      "resetTimestamp": "2026-05-12T20:42:18Z",
+      "color": "#4fc3f7",
+      "colorBg": "rgba(79,195,247,0.12)"
+    },
+    {
+      "id": "MODEL_PLACEHOLDER_M35",
+      "name": "Claude Sonnet 4.6 (Thinking)",
+      "remainingFraction": null,
+      "resetTimestamp": "2026-05-12T20:37:51Z",
+      "color": "#e8a87c",
+      "colorBg": "rgba(232,168,124,0.12)"
+    },
+    {
+      "id": "MODEL_PLACEHOLDER_M26",
+      "name": "Claude Opus 4.6 (Thinking)",
+      "remainingFraction": null,
+      "resetTimestamp": "2026-05-12T20:37:51Z",
+      "color": "#e8a87c",
+      "colorBg": "rgba(232,168,124,0.12)"
+    }
+  ]
+}

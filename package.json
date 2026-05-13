@@ -1,0 +1,19 @@
+{
+  "name": "antigravity-token-dashboard",
+  "version": "1.0.0",
+  "description": "Visual dashboard and CLI to monitor Antigravity model quota in real time",
+  "type": "module",
+  "bin": {
+    "ag-quota": "./src/cli.js"
+  },
+  "scripts": {
+    "cli":     "node src/cli.js",
+    "web":     "node bridge.js",
+    "dev":     "node bridge.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["antigravity", "quota", "monitor", "dashboard"],
+  "license": "MIT"
+}
