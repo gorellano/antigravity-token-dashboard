@@ -236,22 +236,3 @@ widget_antigravity/
   }
 }
 ```
-
----
-
-## Roadmap
-
-- [x] Datos reales desde el Language Server local
-- [x] CLI con tabla coloreada y barras de progreso
-- [x] Dashboard web con gauges y glassmorphism
-- [x] Auto-refresh cada 30 segundos
-- [ ] Historial persistente (SQLite)
-- [ ] Predicción de agotamiento con moving average
-- [ ] Notificación de sistema cuando un modelo se agota
-- [ ] Soporte para múltiples cuentas
-
----
-
-## Contribuir
-
-Hacé un fork, creá tu branch y abrí un PR. El código no tiene transpilación — ES Modules puros, Node.js 18+.
