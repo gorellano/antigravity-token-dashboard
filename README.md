@@ -34,8 +34,8 @@ node --version   # debe ser v18.0.0 o superior
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/widget_antigravity.git
-cd widget_antigravity
+git clone https://github.com/TU_USUARIO/antigravity-token-dashboard.git
+cd antigravity-token-dashboard
 ```
 
 > No hay `npm install` necesario — **cero dependencias externas**. Todo usa módulos nativos de Node.js.
@@ -190,7 +190,7 @@ const PORT = 4001; // cambiar esta línea
 ## Estructura del proyecto
 
 ```
-widget_antigravity/
+antigravity-token-dashboard/
 ├── src/
 │   ├── fetcher.js      # Detección del Language Server + llamadas al API
 │   └── cli.js          # Interfaz de terminal
